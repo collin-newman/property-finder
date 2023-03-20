@@ -25,6 +25,12 @@
     },
     "web": {
       "favicon": "./assets/favicon.png"
-    }
+    },
+    "extra": {
+      "eas": {
+        "projectId": "66c2b8bb-bbba-4777-83ee-aae76c9f03fb"
+      }
+    },
+    "owner": "collin.newman"
   }
 }
